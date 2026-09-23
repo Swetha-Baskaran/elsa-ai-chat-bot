@@ -34,7 +34,7 @@ const ChatPage = () => {
 			headers: {
 				"content-type": "application/json",
 				"X-RapidAPI-Key":
-					"7e3622d2a1msh75f497f069a0051p1500b8jsn8fee94ad6cf6",
+					"xxx", // replace with actual rapid api key
 				"X-RapidAPI-Host": "chatgpt-api7.p.rapidapi.com",
 			},
 			data: {
